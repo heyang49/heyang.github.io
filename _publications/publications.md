@@ -27,7 +27,7 @@ redirect_from:
 
 
 ## Conference Papers
-  [*CICTP*]  Jiayue Zhao, Yang He, Jingxin Xia, and Zhenbo Lu. A Robust Fully-sampled High-resolution Vehicle Trajectory Reconstruction Method Fusing Aggregate Traffic State and Microscopic Vehicle Behavior, COTA International Conference of Transportation Professionals, 23-26, Jul, 2024, Shenzhen, China.
+  [*CICTP*]  Jiayue Zhao, **Yang He**, Jingxin Xia, and Zhenbo Lu. A Robust Fully-sampled High-resolution Vehicle Trajectory Reconstruction Method Fusing Aggregate Traffic State and Microscopic Vehicle Behavior, COTA International Conference of Transportation Professionals, 23-26, Jul, 2024, Shenzhen, China.
   
   [*WTC*] **Yang He**, Chengchuan An, Yuheng Jia, Jiachao Liu, Zhenbo Lu, and Jingxin Xia. Efficient and Robust Freeway Traffic State Estimation under Oblique Grid using Vehicle Trajectory Data,  World Transport Convention, 26-29, Jun, 2024, Qindao, China.
 
