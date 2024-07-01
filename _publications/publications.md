@@ -12,7 +12,7 @@ redirect_from:
 
 ## Featured Publications
 
-   📄[*T-ITS*]  **Yang He**, Chengchuan An, Yuheng Jia, Jiachao Liu, Zhenbo Lu, and Jingxin Xia. (2024). Efficient and Robust Freeway Traffic State Estimation under Oblique Grid using Vehicle Trajectory Data. *IEEE Transactions on Intelligent Transportation Systems*.  (**JCR Q1, IF=8.5**) [[Paper](https://doi.org/10.1109/TITS.2024.3422246)][[Code](https://github.com/heyang49/MVLR)] 
+   📄[*T-ITS*]  **Yang He**, Chengchuan An, Yuheng Jia, Jiachao Liu, Zhenbo Lu, and Jingxin Xia. (2024). Efficient and Robust Freeway Traffic State Estimation under Oblique Grid using Vehicle Trajectory Data. *IEEE Transactions on Intelligent Transportation Systems*.  (**JCR Q1, IF=8.5**) [[Paper](https://doi.org/10.1109/TITS.2024.3422246)][[Code](https://github.com/heyang49/TW-LSMC)] 
     
 
   📄[*T-ITS*]  **Yang He**, Yuheng Jia, Yunqing Jia, Chengchuan An, Zhenbo Lu, Jingxin Xia. (2024). An Integrated Intra-view and Inter-view Framework for Multiple Traffic Variable Data Simultaneous Recovery. *IEEE Transactions on Intelligent Transportation Systems*. (**JCR Q1, IF=8.5**) [[Paper](https://doi.org/10.1109/TITS.2024.3414506)] [[Code](https://github.com/heyang49/MVLR)] 
@@ -32,7 +32,7 @@ redirect_from:
 ## Conference Papers
   [*CICTP*]  Jiayue Zhao, **Yang He**, Jingxin Xia, and Zhenbo Lu. A Robust Fully-sampled High-resolution Vehicle Trajectory Reconstruction Method Fusing Aggregate Traffic State and Microscopic Vehicle Behavior, COTA International Conference of Transportation Professionals, 23-26, Jul, 2024, Shenzhen, China.
   
-  [*WTC*] **Yang He**, Chengchuan An, Yuheng Jia, Jiachao Liu, Zhenbo Lu, and Jingxin Xia. Efficient and Robust Freeway Traffic State Estimation under Oblique Grid using Vehicle Trajectory Data,  World Transport Convention, 26-29, Jun, 2024, Qindao, China.
+  [*WTC*] **Yang He**, Chengchuan An, Yuheng Jia, Jiachao Liu, Zhenbo Lu, and Jingxin Xia. Efficient and Robust Freeway Traffic State Estimation under Oblique Grid using Vehicle Trajectory Data,  World Transport Convention, 26-29, Jun, 2024, Qingdao, China.
 
   [*TRB*] **Yang He**, Chengchuan An, Yuheng Jia, Jiachao Liu, Zhenbo Lu, and Jingxin Xia. Efficient and Robust Freeway Traffic State Estimation under Oblique Grid using Vehicle Trajectory Data,  103rd TRB annual meeting, 7-11, Jan, 2024, Washington, D.C., USA.
   
