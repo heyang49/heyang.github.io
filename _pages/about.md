@@ -16,7 +16,7 @@ Advisor: Prof. Jingxin Xia
 
 ## 🏷️ Research interest:
 
-* Intelligent Transportation Systems
+* Traffic State Estimation
 * Network Modeling
 
 
